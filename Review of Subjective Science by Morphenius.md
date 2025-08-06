@@ -36,7 +36,9 @@ Subjectivity is not a method or field—it is a **relational position** within a
 
 Objective science arises when agential paradigms (efficient causes) are aligned with a discerned telos (final cause). A coherent “subjective science” must do the same. Without purpose, it drifts.
 
-> **Science is always subjective—within the frame of its stated objectives.**
+> **Science is always subjective—it operates within, and is constrained by, the frame of its stated objectives.
+> These objectives are themselves subject to upstream presuppositions, justified by agency oriented toward a higher-order cause.
+> The highest and final cause is what we call *telos*.**
 
 The issue isn’t a lack of subjective tools, but a lack of clarity around the *telos* that justifies the objective. Scientific aims are always sub-objectives within a larger causal chain.
 
@@ -118,6 +120,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
