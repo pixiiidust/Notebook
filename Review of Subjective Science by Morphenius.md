@@ -13,7 +13,7 @@ Let’s unpack this.
 
 ---
 
-## 1. He Names the Disease but Not the Full Anatomy  
+### 1. He Names the Disease but Not the Full Anatomy  
 The essay rightly critiques the “objectivity trap”—the idea that what can’t be measured isn’t real. It encourages science to turn inward, toward belief systems, feedback loops, and inner transformation.
 
 But it stops short of offering structure. The missing piece is a clear ordering of causes—which the author gestures toward but never formalizes.
@@ -29,7 +29,7 @@ Without this hierarchy, science floats—clever but rootless. Subjective and obj
 
 ---
 
-## 2. Subjectivity Is Not a Domain. It’s a Position in the Causal Chain  
+### 2. Subjectivity Is Not a Domain. It’s a Position in the Causal Chain  
 The essay treats objectivity and subjectivity as distinct domains, each with separate methods. But this is a **category error**.
 
 Subjectivity is not a method or field—it is a **relational position** within a causal hierarchy. It emerges from the lower causes (material, formal) and is shaped by the higher ones (efficient, final). In this structure, subjectivity and objectivity are not opposites, but modes governed by orientation to purpose.
@@ -46,7 +46,7 @@ When these remain unexamined, science loses sight of its scaffolding. What appea
 
 ---
 
-## 3. Wisdom Is the Right Ordering of Causes  
+### 3. Wisdom Is the Right Ordering of Causes  
 What the author hints at—but never quite names—is this:  
 > **Wisdom is not the accumulation of truths, but the ability to order causes rightly.**
 
@@ -68,7 +68,7 @@ The core issue in science is not the absence of subjective tools, but the absenc
 
 ---
 
-## 4. Reflexivity Is the Agency That Embodies Purpose  
+### 4. Reflexivity Is the Agency That Embodies Purpose  
 The essay rightly highlights reflexivity—the fact that how we are seen shapes who we become—as central to human experience. But reflexivity is not a flaw in science; it belongs to a **higher order of causality**, one that **precedes** the scientific framework.
 
 In Aristotelian terms, reflexivity is a form of **efficient cause**—agency in motion, directed toward a *telos* (final cause). The reflexive loop is not noise but **patterned action ordered by purpose**.
@@ -82,7 +82,7 @@ Absent this, we relapse into the relativism of humorism, where every view become
 
 ---
 
-## 5. Toward a Science of Wholesomeness  
+### 5. Toward a Science of Wholesomeness  
 The essay ends with a compelling but incomplete vision: a science of wisdom, compassion, and clarity.
 
 It is a worthy dream. But dreams become reality only through structure. What is needed now is a **framework** where:
@@ -95,7 +95,7 @@ Only then can we build a science that heals without cursing, explains without fl
 
 ---
 
-## 🧭 Comparison of the Four Causes (Top-Down Orientation)
+### 🧭 Comparison of the Four Causes (Top-Down Orientation)
 
 | **Cause**         | **Role**                                | **Domain of Influence**                         | **Example**                                                  | **Relation to Subjectivity & Objectivity**                                      |
 |-------------------|------------------------------------------|--------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -112,9 +112,13 @@ Only then can we build a science that heals without cursing, explains without fl
 
 ---
 
-## Final Note  
-This essay is a valuable step—lucid, sincere, and urgent. But the way forward lies not in multiplying methods, nor in simply validating subjectivity, but in **recovering wisdom**, as the author aptly intuits:  
-> the capacity to order causes rightly,  
-> so that science is no longer trapped in the basement of matter,  
-> but ascends—integrated—toward the light of final purpose.
+### Final Note  
+This essay is a valuable step—lucid, sincere, and urgent. But the way forward lies not in multiplying methods, nor in simply validating subjectivity, but—as the author aptly intuits—in recovering *wisdom*. However, he misses the mark on what **wisdom actually is** and how it should be applied:
+
+> **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
+> When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
+> The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
+
+
 
