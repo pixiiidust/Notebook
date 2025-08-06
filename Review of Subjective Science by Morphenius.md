@@ -130,7 +130,7 @@ It is as the author aptly intuits, in recovering *wisdom*. However, he misses th
 
 - **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 - When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
-- The **final cause**, or *telos*, serves as the supervening pivot—constellating successive integrations of downstream causes, sequenced according to its upstream priority.
+- The **final cause**, or *telos*, serves as the supervening pivot—constellating successive integrations of downstream causes, sequenced according to its upstream objectives.
 
 
 
