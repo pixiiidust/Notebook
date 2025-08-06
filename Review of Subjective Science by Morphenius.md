@@ -95,7 +95,7 @@ Only then can we build a science that heals without cursing, explains without fl
 
 ---
 
-### 🧭 Comparison of the Four Causes (Top-Down Orientation)
+### Comparison of the Four Causes (Top-Down Orientation)
 
 | **Cause**         | **Role**                                | **Domain of Influence**                         | **Example**                                                  | **Relation to Subjectivity & Objectivity**                                      |
 |-------------------|------------------------------------------|--------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -118,6 +118,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
