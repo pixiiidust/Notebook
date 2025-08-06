@@ -21,7 +21,7 @@ But it stops short of offering structure, and mistakenly assumes that metaphysic
 The terms subjective and objective are often misunderstood and require relational qualifiers. They describe how different levels of causality are ordered and sequenced, enabling us to make sense of their interdependencies. This review adopts the Aristotelian model hinted at by the author, which warrants further explication. Ordered from top (greatest causal authority) to bottom:
 
 - **Final cause (telos):** the ultimate purpose or end  
-- **Efficient cause:** the agent or paradigm acting toward that purpose  
+- **Efficient cause:** the agent or paradigm acting or responding toward that purpose  
 - **Formal cause:** the frame of goal-directed pattern that defines logic  
 - **Material cause:** the observable substrate
 
@@ -118,6 +118,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
