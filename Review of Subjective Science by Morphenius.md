@@ -120,14 +120,18 @@ Only then can we cultivate science as a discipline that explains without flatten
 - **Objectivity** tends to operate through **formal** and **material** causes, but each level presupposes its own *sub-objectives*. Sub-objectives find their fulfillment only in the **final cause**, the ultimate objective.
 
 ---
-### Case Study: Example of a pool game:
+### Case Study: Example of a pool game 
+
+What level of causality does science usually deal with?
 
 - The **final cause** (*telos*) is the purpose of the game—*why* it is played (e.g. to win, to enjoy, to compete).
 - The **efficient cause** is the agency of the players, embodying actionable goals—the capacity to enact patterns directed toward achieving the final purpose.
 - The **formal cause** is the structure of the game: the rules, table boundaries, and logic encoded in gameplay mechanics. These constraints act passively in the background, indirectly enabling intelligible action and defining the possibility space in which it can occur.
 - The **material cause** is the physical setup that produces direct effects: the table, balls, and cues—the substrate through which actions are executed and observed.
 
-Each layer constrains and enables the one below it. Players (efficient cause) act meaningfully only within a formal system (rules), toward a goal (telos), and through material objects. The game becomes intelligible—and playable—only when these causes are properly ordered.
+Each layer constrains and enables the one below it. Players (efficient cause) act meaningfully only within a formal system (rules), toward a goal (telos), and through material objects. The game becomes intelligible—and playable—only when these causes are properly ordered. 
+
+Science typically focuses on the lower two levels of causality: the formal and material causes.
 
 ---
 ### Final Takeaway  
@@ -140,6 +144,7 @@ It is as the author aptly intuits, in recovering *wisdom*. However, he misses th
 - When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 
 Thus, the **final cause**, or *telos*, serves as the supervening pivot—constellating successive integrations of downstream causes, sequenced according to its upstream objectives.
+
 
 
 
