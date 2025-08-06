@@ -110,9 +110,11 @@ Only then can we cultivate science as a discipline that explains without flatten
 
 ### **Summary of Table**
 
-- **Final → Efficient → Formal → Material**: a top-down flow of causality and meaning.  
+**Final → Efficient → Formal → Material**: A top-down flow sequencing causality and meaning.  
+
 - **Subjectivity** primarily arises at the **efficient** level (agency, reflexivity), governed by its alignment to the **final cause**.  
-- **Objectivity** tends to operate through **formal and material** causes, but it too presupposes a purpose—whether explicit or hidden.
+- The efficient level is followed by the **formal** and **material** causes, each successively *subject* to its objective prior.
+- **Objectivity** tends to operate through **formal and material** causes, but each level presupposes its own sub-objectives, terminating only at the final cause--sub-objectives fulfilled by the ultimate objective.
 
 ---
 
@@ -122,6 +124,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
