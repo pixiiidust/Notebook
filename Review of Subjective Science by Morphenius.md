@@ -93,8 +93,8 @@ It is a worthy endeavor. But such efforts only become *reality* when they are em
 - *What is true* is not defined solely by falsifiability, but by its overarching **alignment with purpose**  
 - *Science is not merely* a toolbox of methods, but a disciplined way of **discerning intelligibility within a given frame**.
  
-Only then can we cultivate science as a discipline that explains without flattening meaning.
-> So that it discovers without losing sight of its *objective* intent and downstream placement within a *causal chain*—
+Only then can we cultivate science as a discipline that explains without flattening meaning:
+> Enabling discovery without losing sight of its *objective* intent and downstream placement within a *causal chain*—
 > that is, serving what it is *truly suited for*.
 
 ---
@@ -122,6 +122,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
