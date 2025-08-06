@@ -1,9 +1,9 @@
-# Review of Morphenius's (Dreaming Wizard) *"Subjective Science: We Can Study the Sacred. For Real."*  
+## Review of Morphenius's (Dreaming Wizard) *"Subjective Science: We Can Study the Sacred. For Real."*  
 **Written by Pixie**
 
 Essay Link: https://morphenius.substack.com/p/subjective-science
 
-## Overview: A Promising Diagnosis—But the Cure Must Go Deeper
+### Overview: A Promising Diagnosis—But the Cure Must Go Deeper
 
 The essay asks the right questions. It challenges the limits of objectivity in science—particularly regarding subjectivity, here framed as reflexive domains like trauma, spirituality, and selfhood. The author’s sincerity and ambition to reclaim the “unscientific” are commendable.
 
@@ -13,7 +13,7 @@ Let’s unpack this.
 
 ---
 
-### 1. He Names the Disease but Not the Full Anatomy  
+### 1. Naming the Disease but Not the Full Anatomy  
 The essay rightly critiques the “objectivity trap”—the idea that what can’t be measured isn’t real. It encourages science to turn inward, toward belief systems, feedback loops, and inner transformation.
 
 But it stops short of offering structure. The missing piece is a clear ordering of causes—which the author gestures toward but never formalizes.
@@ -118,6 +118,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
