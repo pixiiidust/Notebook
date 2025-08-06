@@ -10,7 +10,7 @@ The essay asks the right questions. It challenges the limits of objectivity in s
 This review aims to strengthen the essay's impetus by bringing greater clarity to its core concerns. Several important gaps in its underlying worldview—particularly regarding **causal chains** and the placement of scientific causality within a broader **ontological hierarchy**—require clearer definition. 
 
 What’s *missing* is a **conceptual architecture**—one that frames subjectivity not as a separate category,  
-but as a consequence *coherent with* the objectives that *precede* and *condition* the very possibility of inquiry.
+but as a consequence *coherent with* the objectives that *precede* and *condition* the very possibility of scientific inquiry.
 
 Let’s unpack this.
 
@@ -131,6 +131,7 @@ It is as the author aptly intuits, in recovering *wisdom*. However, he misses th
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
