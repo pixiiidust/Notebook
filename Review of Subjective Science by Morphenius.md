@@ -17,7 +17,7 @@ Let’s unpack this.
 ---
 
 ### 1. Naming the Disease but Not the Full Anatomy  
-The essay rightly critiques the “objectivity trap”—the idea that what can’t be measured isn’t real. It encourages science to turn inward, toward belief systems, feedback loops, and inner transformation.
+The essay rightly critiques the “objectivity trap”—the idea that what can’t be measured isn’t real. It encourages science to develop stronger philosophical rigor, questioning contemporary attitudes toward belief systems, along with metaphysical constructs that underpin such systems.
 
 But it stops short of offering structure, and mistakenly assumes that metaphysical constructs are already part of—and contained within—the scientific worldview. This assumption overlooks the overarching pattern: the ordering of causes that science must presuppose to justify its own reasoning—an ordering the author gestures toward but never fully articulates.
 
@@ -131,6 +131,7 @@ It is as the author aptly intuits, in recovering *wisdom*. However, he misses th
 - **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 - When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 - The **final cause**, or *telos*, serves as the supervening pivot—constellating successive integrations of downstream causes, sequenced according to its upstream objectives.
+
 
 
 
