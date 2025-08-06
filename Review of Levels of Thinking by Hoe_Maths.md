@@ -2,7 +2,7 @@
 ## Review of Hoe_Math's Video *"Levels of Thinking"*  
 **Written by Pixie** (Still WIP, appreciate critiques to improve)
 
-### Video Link: https://youtu.be/kse87ocS0Uo?si=fc_cgQNFAzbnNXYT
+Video Link: https://youtu.be/kse87ocS0Uo?si=fc_cgQNFAzbnNXYT
 
 ### Overview: Decent Attempt to Structure "Thinking" Actionably: Gaps remain for presumptions in underlying framework
 
@@ -115,6 +115,7 @@ A temporally coherent model should allow for oscillation, recursion, and rhythmi
    * Rhythm-based goal convergence,
    * Entropy or pathology accumulation,
    * *Kairos*-based thresholds (as opposed to linear *chronos* time).
+
 
 
 
