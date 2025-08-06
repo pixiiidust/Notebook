@@ -1,10 +1,10 @@
----
-# Review of Hoe_Math's Video *"Levels of Thinking"*  
-**Written by Pixie**
 
-## Video Link: https://youtu.be/kse87ocS0Uo?si=fc_cgQNFAzbnNXYT
+## Review of Hoe_Math's Video *"Levels of Thinking"*  
+**Written by Pixie** (Still WIP, appreciate critiques to improve)
 
-## Overview: Decent Attempt to Structure "Thinking" Actionably: Gaps remain for presumptions in underlying framework
+### Video Link: https://youtu.be/kse87ocS0Uo?si=fc_cgQNFAzbnNXYT
+
+### Overview: Decent Attempt to Structure "Thinking" Actionably: Gaps remain for presumptions in underlying framework
 
 Inspired by *Maslow's Hierarchy of Needs*, *Wilber’s Integral Theory*/*Spiral Dynamics*, and *Piaget’s stages of psychosocial development*, **Hoe Math** presents a hierarchy of consciousness—mapping sociocultural evolution and individual cognition over time. The framework reinterprets this trajectory through a modern, possibly memetic lens. Below is a structured critical review of the model across three dimensions:
 
@@ -16,7 +16,7 @@ Inspired by *Maslow's Hierarchy of Needs*, *Wilber’s Integral Theory*/*Spiral 
 
 ---
 
-## 1. Teleological Coherence
+### 1. Teleological Coherence
 
 **Does the model present a coherent direction of purpose or ultimate aim?**
 
@@ -44,7 +44,7 @@ For a teleological model to be coherent, it must show not only a direction (from
 
 ---
 
-## 2. Ontological Coherence
+### 2. Ontological Coherence
 
 **Does the model present a stable metaphysical structure of what is real, and how knowing relates to being?**
 
@@ -77,7 +77,7 @@ Ontological coherence requires clarifying whether development tracks **mental co
 
 ---
 
-## 3. Temporal-Structural Fit
+### 3. Temporal-Structural Fit
 
 **Does the historical mapping of social structures correspond to real cyclical rates, or is it artificially linear?**
 
@@ -102,7 +102,7 @@ A temporally coherent model should allow for oscillation, recursion, and rhythmi
 
 ---
 
-## Suggested Framework Enhancements
+###Suggested Framework Enhancements
 
 1. Ground the top level in a transcendent attractor—not merely peace or “observation,” but a unitive source of being (e.g., the *Logos*, the *Tao*, or the *Good*).
 2. Make explicit the ontological transition model—clarify whether the levels represent:
@@ -116,7 +116,7 @@ A temporally coherent model should allow for oscillation, recursion, and rhythmi
    * Entropy or pathology accumulation,
    * *Kairos*-based thresholds (as opposed to linear *chronos* time).
 
----
+
 
 
 
