@@ -16,16 +16,16 @@ Let’s unpack this.
 ### 1. Naming the Disease but Not the Full Anatomy  
 The essay rightly critiques the “objectivity trap”—the idea that what can’t be measured isn’t real. It encourages science to turn inward, toward belief systems, feedback loops, and inner transformation.
 
-But it stops short of offering structure. The missing piece is a clear ordering of causes—which the author gestures toward but never formalizes.
+But it stops short of offering structure, and mistakenly assumes that metaphysical constructs are already part of—and contained within—the scientific worldview. This assumption overlooks the overarching pattern: the ordering of causes that science must presuppose to justify its own reasoning—an ordering the author gestures toward but never fully articulates.
 
-To integrate the subjective and objective, we adopt the author’s Aristotelian causal hierarchy, which explains phenomena from top (most causal capacity) to bottom:
+The terms subjective and objective are often misunderstood and require relational qualifiers. They describe how different levels of causality are ordered and sequenced, enabling us to make sense of their interdependencies. This review adopts the Aristotelian model hinted at by the author, which warrants further explication. Ordered from top (greatest causal authority) to bottom:
 
 - **Final cause (telos):** the ultimate purpose or end  
 - **Efficient cause:** the agent or paradigm acting toward that purpose  
 - **Formal cause:** the frame of goal-directed pattern that defines logic  
 - **Material cause:** the observable substrate
 
-Without this hierarchy, science floats—clever but rootless. Subjective and objective modes aren’t separate types of knowledge, but positions within a layered causal chain. Their integration depends on ordering them rightly.
+Without this hierarchy, science floats "unmoored"—lacking justification for pre-supposed axioms. Subjective and objective modes aren’t separate types of knowledge, but relational positions within a layered causal chain. Their integration depends on ordering them rightly.
 
 ---
 
@@ -118,6 +118,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
