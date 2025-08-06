@@ -7,7 +7,10 @@ Essay Link: https://morphenius.substack.com/p/subjective-science
 
 The essay asks the right questions. It challenges the limits of objectivity in science—particularly regarding subjectivity, framed by the author as a reflexive domain (e.g. trauma, spirituality, and selfhood) *within* scientific models. The author’s sincerity and ambition to reclaim the “unscientific” are commendable.
 
-But to move forward, the underlying worldview—especially regarding causal chains and the place of scientific causality within a broader ontological hierarchy—must be more clearly defined. What’s missing is a conceptual architecture—one that frames subjectivity not as a separate category, but as a consequence of the objectives that precede and condition the very possibility of inquiry.
+This review aims to strengthen the essay's impetus by bringing greater clarity to its core concerns. Several important gaps in its underlying worldview—particularly regarding **causal chains** and the placement of scientific causality within a broader **ontological hierarchy**—require clearer definition. 
+
+What’s *missing* is a **conceptual architecture**—one that frames subjectivity not as a separate category,  
+but as a consequence *coherent with* the objectives that *precede* and *condition* the very possibility of inquiry.
 
 Let’s unpack this.
 
@@ -114,16 +117,21 @@ Only then can we cultivate science as a discipline that explains without flatten
 
 - **Subjectivity** primarily arises at the **efficient** level (agency, reflexivity), governed by its alignment to the **final cause**.  
 - The efficient level is followed by the **formal** and **material** causes, each successively *subject* to its objective prior.
-- **Objectivity** tends to operate through **formal and material** causes, but each level presupposes its own sub-objectives, terminating only at the final cause--sub-objectives fulfilled by the ultimate objective.
+- **Objectivity** tends to operate through **formal** and **material** causes, but each level presupposes its own *sub-objectives*—sub-objectives that find their fulfillment only in the **final cause**, the ultimate objective.
 
 ---
 
-### Final Note  
-This essay is a valuable step—lucid, sincere, and urgent. But the way forward lies not in multiplying methods, nor in simply validating subjectivity, but—as the author aptly intuits—in recovering *wisdom*. However, he misses the mark on what **wisdom actually is** and how it should be applied:
+### Final Takeaway  
+
+*Subjective Science* delivers a valuable message in recognizing the limitations of science—it is lucid, sincere, and urgent.  
+But the way forward lies not in its proposed solutions—such as multiplying methods or merely validating subjectivity. 
+
+It is as the author aptly intuits, in recovering *wisdom*. However, he misses the mark on what **wisdom actually is**, and how it should be applied:
 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
