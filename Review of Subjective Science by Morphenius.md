@@ -1,7 +1,7 @@
 # Review of Morphenius's (Dreaming Wizard) *"Subjective Science: We Can Study the Sacred. For Real."*  
 **Written by Pixie**
 
-## Essay Link: https://morphenius.substack.com/p/subjective-science
+Essay Link: https://morphenius.substack.com/p/subjective-science
 
 ## Overview: A Promising Diagnosis—But the Cure Must Go Deeper
 
@@ -117,3 +117,4 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > the capacity to order causes rightly,  
 > so that science is no longer trapped in the basement of matter,  
 > but ascends—integrated—toward the light of final purpose.
+
