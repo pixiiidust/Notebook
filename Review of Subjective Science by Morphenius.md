@@ -5,9 +5,9 @@ Essay Link: https://morphenius.substack.com/p/subjective-science
 
 ### Overview: A Promising Diagnosis—But the Cure Must Go Deeper
 
-The essay asks the right questions. It challenges the limits of objectivity in science—particularly regarding subjectivity, here framed as reflexive domains like trauma, spirituality, and selfhood. The author’s sincerity and ambition to reclaim the “unscientific” are commendable.
+The essay asks the right questions. It challenges the limits of objectivity in science—particularly regarding subjectivity, framed by the author as a reflexive domain (e.g. trauma, spirituality, and selfhood) *within* scientific models. The author’s sincerity and ambition to reclaim the “unscientific” are commendable.
 
-But to move forward, the foundations must be stronger. What’s missing is a conceptual architecture: a way to frame subjectivity not as a separate category, but as a consequence of the objectives that define inquiry in the first place.
+But to move forward, the underlying worldview—especially regarding causal chains and the place of scientific causality within a broader ontological hierarchy—must be more clearly defined. What’s missing is a conceptual architecture—one that frames subjectivity not as a separate category, but as a consequence of the objectives that precede and condition the very possibility of inquiry.
 
 Let’s unpack this.
 
@@ -118,6 +118,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
