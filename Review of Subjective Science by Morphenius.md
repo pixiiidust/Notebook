@@ -66,7 +66,7 @@ A properly ordered causal chain brings this into focus:
 The core issue in science is not the absence of subjective tools, but the absence of **diagnostic clarity**—the ability to justify *why* a given method or model is used in the first place. That justification requires knowing **where** the causal order has broken down—and how to restore it.
 
 > This is the true task of applied science in lived experience:  
-> **not to quantify the ineffable, but to align the intelligible.**
+> **not to quantify the ineffable, but to align the intelligible within the constraints of its presumed logical frame.**
 
 ---
 
@@ -120,6 +120,7 @@ This essay is a valuable step—lucid, sincere, and urgent. But the way forward 
 > **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 > When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
 > The **final cause**, or *telos*, serves as the supervening pivot—constellating the successive integration of downstream causes according to its upstream priority.
+
 
 
 
