@@ -74,11 +74,11 @@ The core issue in science is not the absence of subjective tools, but the absenc
 ---
 
 ### 4. Reflexivity Is the Agency That Embodies Purpose  
-The essay rightly highlights reflexivity—the fact that how we are seen shapes who we become—as central to human experience. But reflexivity is not a flaw in science; it belongs to a **higher order of causality**, one that **precedes** the scientific framework.
+The essay rightly highlights reflexivity—the fact that how we are seen shapes who we become—as central to human experience. Despite being overlooked, reflexivity is not a flaw *within* science; rather, it belongs to a **higher order of causality**, one that **precedes** the framework of science.
 
 In Aristotelian terms, reflexivity is a form of **efficient cause**—agency in motion, directed toward a *telos* (final cause). The reflexive loop is not noise but **patterned action ordered by purpose**.
 
-For any “subjective science” to mature, it must go beyond private phenomenology and root itself in a **relational teleological order**—a coherent chain linking subjective experience to objective form through successive causal dependencies.
+For any “subjective science” to mature, it must move beyond the constraints of phenomenology and graft itself into its rightful place within a **relational teleological order**. This constitutes a coherent chain that links *subjective* and *objective* relationships, necessitating clarity on what *precedes* and *succeeds* within a sequence of causal dependencies.
 
 Absent this, we relapse into the relativism of humorism, where every view becomes self-justifying and nothing can be falsified—because agency and purpose remain unexamined or wrongly subordinated to empirical method.
 
@@ -87,10 +87,10 @@ Absent this, we relapse into the relativism of humorism, where every view become
 
 ---
 
-### 5. Toward a Science of Wholesomeness  
+### 5. Toward a Science that is Salient
 The essay ends with a compelling but incomplete vision: a science of wisdom, compassion, and clarity.
 
-It is a worthy endeavor. But such efforts only become *reality* when they are embodied through coherent structure. What is needed now is the *realization* of an **onboarding framework** that recognizes:
+It is a worthy endeavor. But such efforts only become *reality* when they are embodied through coherent structure. This requires *realizing* an **onboarding framework** that recognizes:
 
 - *Objective and subjective* are not competing domains, but rather, **modes that delineate sequence within a causal hierarchy**  
 - *What is true* is not defined solely by falsifiability, but by its overarching **alignment with purpose**  
@@ -108,29 +108,39 @@ Only then can we cultivate science as a discipline that explains without flatten
 |-------------------|------------------------------------------|--------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------|
 | **Final Cause**   | Purpose or end toward which something is directed | Direction, meaning, ultimate goal                | Human flourishing, justice, salvation, *telos* of a system     | Governs **objective orientation**; shapes all downstream logic and methods       |
 | **Efficient Cause** | Agent or paradigm initiating change     | Action, agency, belief, responsive method         | Therapist’s intervention, decision to heal, gravity            | Seat of **subjective agency**; reflexive, shaped by and toward *final cause*     |
-| **Formal Cause**  | Structure or formalized pattern for logic | Frame, concept, interpretive model               | Mathematical law, archetypes, diagnostic schema                | Conditions **intelligibility**; constrains what can be seen or inferred          |
+| **Formal Cause**  | Structure or formalized pattern for logic | Frame, concept, interpretive model               | Mathematical law, archetypes, diagnostic schema                | Conditions **intelligibility**; constrains what can be measured, observed or inferred          |
 | **Material Cause**| Physical substrate or observable base     | Matter, data, phenomena                          | Brain chemistry, blood pressure, neural signals                | What is **measured and observed**; basis for empirical claims                    |
 
 ### **Summary of Table**
 
-**Final → Efficient → Formal → Material**: A top-down flow sequencing causality and meaning.  
+**Final → Efficient → Formal → Material**: A top-down flow sequencing causality and meaning.
 
 - **Subjectivity** primarily arises at the **efficient** level (agency, reflexivity), governed by its alignment to the **final cause**.  
 - The efficient level is followed by the **formal** and **material** causes, each successively *subject* to its objective prior.
-- **Objectivity** tends to operate through **formal** and **material** causes, but each level presupposes its own *sub-objectives*—sub-objectives that find their fulfillment only in the **final cause**, the ultimate objective.
+- **Objectivity** tends to operate through **formal** and **material** causes, but each level presupposes its own *sub-objectives*. Sub-objectives find their fulfillment only in the **final cause**, the ultimate objective.
 
 ---
+### Case Study: Example of a pool game:
 
+- The **final cause** (*telos*) is the purpose of the game—*why* it is played (e.g. to win, to enjoy, to compete).
+- The **efficient cause** is the agency of the players, embodying actionable goals—the capacity to enact patterns directed toward achieving the final purpose.
+- The **formal cause** is the structure of the game: the rules, table boundaries, and logic encoded in gameplay mechanics. These constraints act passively in the background, indirectly enabling intelligible action and defining the possibility space in which it can occur.
+- The **material cause** is the physical setup that produces direct effects: the table, balls, and cues—the substrate through which actions are executed and observed.
+
+Each layer constrains and enables the one below it. Players (efficient cause) act meaningfully only within a formal system (rules), toward a goal (telos), and through material objects. The game becomes intelligible—and playable—only when these causes are properly ordered.
+
+---
 ### Final Takeaway  
 
-*Subjective Science* delivers a valuable message in recognizing the limitations of science—it is lucid, sincere, and urgent.  
-But the way forward lies not in its proposed solutions—such as multiplying methods or merely validating subjectivity. 
+*Subjective Science* delivers a valuable message in recognizing the limitations of science—it is lucid, sincere, and urgent. But the way forward lies not in its proposed solutions—such as multiplying methods or merely validating subjectivity. 
 
 It is as the author aptly intuits, in recovering *wisdom*. However, he misses the mark on what **wisdom actually is**, and how it should be applied:
 
 - **Wisdom is the capacity to order causes rightly, so that discerned intelligibility is purposeful.**  
 - When properly enacted, it enables “subjective science” to be situated and integrated within a hierarchical chain of causes.  
-- The **final cause**, or *telos*, serves as the supervening pivot—constellating successive integrations of downstream causes, sequenced according to its upstream objectives.
+
+Thus, the **final cause**, or *telos*, serves as the supervening pivot—constellating successive integrations of downstream causes, sequenced according to its upstream objectives.
+
 
 
 
